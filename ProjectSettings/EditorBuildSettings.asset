@@ -4,7 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/stack.unity
+    guid: 0e94f09966a540242aed6be345f14abd
+  - enabled: 0
+    path: Assets/nuka twin.unity
+    guid: 8736421e0290b0e4499fc33bc712c336
+  - enabled: 0
+    path: Assets/griddy.unity
+    guid: 04bbab21df5896044aac2e9cfdcc2402
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0
